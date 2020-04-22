@@ -1,2 +1,3 @@
-# Verlet Algorithm
-This is the first document in the file "codes" to which I will upload the codes throughout the internship.
+# Codes
+1) Solving equations of motion for a particle under harmonic potential using Verlet algorithm
+2) Numerical computation of the derivative of harmonic potential
